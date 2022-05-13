@@ -2,7 +2,7 @@
 
 Two floders are included. 
 
-GaussionExample: code and data for the Gaussion-type spectral.
+GaussionExample: code and data for the Gaussion-type example.
 
 TransverseIsingExample: code and data for the transverse Ising model example.
 
