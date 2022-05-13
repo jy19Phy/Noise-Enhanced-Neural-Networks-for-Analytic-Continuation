@@ -8,6 +8,7 @@ TransverseIsingExample: code and data for the transverse Ising model example.
 
 # Environment Setting 
 python 3.7.6
+
 tensorflow 1.15.0
 
 
