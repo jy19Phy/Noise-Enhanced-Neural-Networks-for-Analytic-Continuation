@@ -1,5 +1,4 @@
-# Noise-Enhanced-Neural-Networks-for-Analytic-Continuation
-Code for paper arXiv:2111.12266
+# Files descriptions
 
 Two files are included. 
 
